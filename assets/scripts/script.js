@@ -65,7 +65,6 @@ TweenMax.staggerFrom(
 );
 
 
-
 anime.timeline().add({
     targets: ".title .letter",
     translateY: [-200, 0],
